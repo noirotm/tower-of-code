@@ -133,6 +133,7 @@ free to take inspiration from them.
 
 ## Tips
 
-interacting with other players
-
-golfing
+Since all code runs in a single Javascript environment, there is no resctriction
+of access for variables and functions created by the contestants.
+Interacting with other players is therefore encouraged.
+Be creative, there is more than one way to be the winner !
